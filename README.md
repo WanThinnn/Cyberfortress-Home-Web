@@ -50,5 +50,10 @@ This website is built using:
 - Font Awesome for UI elements
 - Responsive design for optimal viewing on all devices
 
+## Collaborator
+
+- **Lại Quan Thiên** - [WanThinnn](https://github.com/WanThinnn)
+- **Hồ Diệp Huy** - [hohuyy](https://github.com/hohuyy)
+
 ## Last Updated
 June 19, 2025
