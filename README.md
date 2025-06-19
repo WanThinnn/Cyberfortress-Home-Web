@@ -6,6 +6,8 @@ SIEM Central is a web platform showcasing a research and implementation project 
 ## Project Description
 The project demonstrates the deployment of a comprehensive SIEM solution that collects, processes, analyzes, and visualizes cybersecurity events within a simulated environment. It focuses on monitoring logs from Windows and Linux systems, along with security devices like Suricata and pfSense, to detect, investigate, and respond to threats in real-time.
 
+View the full project at: [https://github.com/WanThinnn/SIEM-Central](https://github.com/WanThinnn/SIEM-Central)
+
 ## Technologies Used
 - **Elastic Stack (ELK):** Elasticsearch, Logstash, Kibana, and Beats (Elastic Agent/Filebeat)
 - **Network/Security Devices:** pfSense (router, firewall, log forwarding), Suricata (Inline IDS/IPS)
