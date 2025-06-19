@@ -2,7 +2,7 @@
 
 ## Overview
 SIEM Central is a web platform showcasing a research and implementation project focused on a Security Information and Event Management (SIEM) system using the Elastic Stack (ELK). This website documents the architecture, technologies, and capabilities of a centralized management and processing system for cyber attack events.
-
+![alt text](img/demo-web.png)
 ## Project Description
 The project demonstrates the deployment of a comprehensive SIEM solution that collects, processes, analyzes, and visualizes cybersecurity events within a simulated environment. It focuses on monitoring logs from Windows and Linux systems, along with security devices like Suricata and pfSense, to detect, investigate, and respond to threats in real-time.
 
